@@ -12,5 +12,5 @@ Seeing how everyone is in some way connected to social media it doesn't make sen
 * Browser ID
 * Facebook
 
-### Want to contribution?
+### Want to contribute?
 Fork and code. Simple. 
